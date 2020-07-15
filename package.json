@@ -1,0 +1,8 @@
+{
+  "name": "js-nxas2z",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "xmlbuilder2": "^2.2.0"
+  }
+}
