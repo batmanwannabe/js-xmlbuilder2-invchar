@@ -3,7 +3,7 @@ import './style.css';
 import 'xmlbuilder2'
 
 var obj = { newData:{
-'-number': [ 
+'--name': [ 
     "one", 
     "two"
   ]
